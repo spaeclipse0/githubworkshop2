@@ -1,1 +1,3 @@
-lol
+function lol() {
+	login()
+}
