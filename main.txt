@@ -1,3 +1,4 @@
-function main() {
+function lol() {
+	login()
   register()
 }
